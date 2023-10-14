@@ -1,0 +1,3 @@
+[submodule "external/astrocore"]
+	path = external/astrocore
+	url = git@github.com:eruhlinteractive/Astrocore.git

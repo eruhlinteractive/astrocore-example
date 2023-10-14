@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/ethan/vcpkg/installed/x64-linux/**",
+                "/home/ethan/vcpkg/installed/x64-linux/include/**",
+                "/home/ethan/vcpkg/installed/x64-linux/include",
+                "${workspaceFolder}/**",
+                "/home/ethan/vcpkg/installed/x64-linux/include"
+            ],
+            "browse": {
+                "path": [
+                    "${default}",
+                    "/home/ethan/vcpkg/installed/x64-linux/**",
+                    "/home/ethan/vcpkg/installed/x64-linux/include/**",
+                    "/home/ethan/vcpkg/installed/x64-linux/include/box2d",
+                ]
+            },
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
